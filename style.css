@@ -1,0 +1,9 @@
+*{
+    background-color: darkgray;
+}
+
+h1{
+   text-decoration: underline;
+   color: purple;
+   text-align: center; 
+}
